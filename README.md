@@ -1,6 +1,7 @@
 ###  👋 Hello World, I'm Ilma Zahil!
 
-Interested Programming Languages :
+
+I am second year undergraduate Software Engineer at University of Westminister who is a good team player with harworking skills.
 
 <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square">
