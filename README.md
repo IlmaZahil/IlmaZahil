@@ -15,6 +15,10 @@ Reach me out :
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square">
 </a>
 
+<a href="https://www.linkedin.com/in/fathima-ilma-zahil-6404021b9/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square">
+</a>
+
 
 
 
