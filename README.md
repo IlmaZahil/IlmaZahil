@@ -11,6 +11,10 @@ Reach me out :
   <img src="https://img.shields.io/badge/-Twitter-blue">
 </a>
 
+<a href="https://github.com/IlmaZahil">
+  <img src="https://img.shields.io/github/downloads/IlmaZahil/IlmaZahil/total?label=GitHub&logo=GitHub&style=flat-square">
+</a>
+
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
 
