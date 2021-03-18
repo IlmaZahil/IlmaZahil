@@ -5,7 +5,7 @@ I am second year undergraduate Software Engineer at University of Westminister w
 <br/>
 <br/>
 
-<img src="![Ilm](https://user-images.githubusercontent.com/66563618/111579237-ac1b7400-87db-11eb-9ab2-eaea3e46b4d1.jpeg)
+<img src="(https://user-images.githubusercontent.com/66563618/111579237-ac1b7400-87db-11eb-9ab2-eaea3e46b4d1.jpeg)
 ">
 <br/>
 
