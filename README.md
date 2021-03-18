@@ -2,6 +2,9 @@
 
 
 I am second year undergraduate Software Engineer at University of Westminister who is a good team player with harworking skills.
+<br/>
+
+Interested programming languages : 
 
 <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square">
@@ -10,7 +13,7 @@ I am second year undergraduate Software Engineer at University of Westminister w
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
-
+<br/>
 
 Reach me out :
 
