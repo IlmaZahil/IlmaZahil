@@ -8,7 +8,7 @@ Reach me out :
 </a>
 
 <a href="https://twitter.com/FZahil">
-  <img src="https://img.shields.io/badge/-Twitter-61DAFB?logo=twitter&logoColor=white&style=flat-squarehttps://img.shields.io/badge/-Twitter-blue">
+  <img src="https://img.shields.io/badge/-Twitter-61DAFB?logo=twitter&logoColor=#1DA1F2&style=flat-square">
 </a>
 
 <a href="https://github.com/IlmaZahil">
