@@ -6,13 +6,27 @@ I am second year undergraduate Software Engineer at University of Westminister w
 
 Interested programming languages : 
 
-<img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square">
-<img src="https://img.shields.io/badge/-HTML-E34F26?logo=html&logoColor=white&style=flat-square">
-<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white&style=flat-square">
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square">
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square">
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
+<a href="#">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html&logoColor=white&style=flat-square">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white&style=flat-square">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
+</a>
 <br/>
 
 Reach me out :
