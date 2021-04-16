@@ -4,7 +4,8 @@
 I am a second year undergraduate Software Engineer at University of Westminister who is a good team player with harworking skills.
 <br/>
 <br/>
-![Ilm](https://user-images.githubusercontent.com/66563618/111579520-29df7f80-87dc-11eb-9389-6854c650dabd.jpeg)
+![WhatsApp Image 2021-04-06 at 16 44 36](https://user-images.githubusercontent.com/66563618/115005667-b9ed1380-9ec5-11eb-8d00-7ad889567c14.jpeg)
+
 
 <br/>
 
