@@ -42,7 +42,7 @@ Interested programming languages :
 Reach me out :
 
 <a href="https://www.instagram.com/iam_ilm/">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square">
+ <img src="https://cdn.worldvectorlogo.com/logos/intagram-2-1.svg" alt="xd" width="40" height="40"/>
 </a>
 
 <a href="https://twitter.com/FZahil">
