@@ -46,7 +46,7 @@ Reach me out :
 </a>
 
 <a href="https://twitter.com/FZahil">
-  <img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="xd" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" alt="xd" width="40" height="40"/>
 </a>
 
 <a href="https://github.com/IlmaZahil">
