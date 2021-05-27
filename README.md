@@ -46,15 +46,15 @@ Reach me out :
 </a>
 
 <a href="https://twitter.com/FZahil">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square">
+  <img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="xd" width="40" height="40"/>
 </a>
 
 <a href="https://github.com/IlmaZahil">
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square">
+  <img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="xd" width="40" height="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/fathima-ilma-zahil-6404021b9/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square">
+  <img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="xd" width="40" height="40"/>
 </a>
 
 
