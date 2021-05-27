@@ -50,7 +50,7 @@ Reach me out :
 </a>
 
 <a href="https://github.com/IlmaZahil">
-  <img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="xd" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" alt="xd" width="40" height="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/fathima-ilma-zahil-6404021b9/">
