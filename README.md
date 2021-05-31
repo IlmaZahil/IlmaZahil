@@ -60,4 +60,3 @@ Reach me out :
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="xd" width="40" height="40"/>
 </a>
 
-
