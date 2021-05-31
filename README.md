@@ -56,7 +56,6 @@ Reach me out :
 <a href="https://github.com/IlmaZahil">
   <img src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" alt="xd" width="40" height="40"/>
 </a>
-
 <a href="https://www.linkedin.com/in/fathima-ilma-zahil-6404021b9/">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="xd" width="40" height="40"/>
 </a>
