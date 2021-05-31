@@ -43,7 +43,6 @@ Interested programming languages : <br/>
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=java&logoColor=white&style=flat-square">
 </a>
 
-
 <br/>
 
 Reach me out :
