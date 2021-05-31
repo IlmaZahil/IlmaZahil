@@ -40,6 +40,9 @@ Interested programming languages :
 <a href="#">
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=java&logoColor=white&style=flat-square">
 </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=java&logoColor=white&style=flat-square">
+</a>
 
 
 <br/>
