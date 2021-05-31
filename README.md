@@ -7,7 +7,6 @@ I am a second year undergraduate Software Engineer at University of Westminister
 ![WhatsApp Image 2021-04-20 at 22 41 38](https://user-images.githubusercontent.com/66563618/115454344-4ee16b00-a23e-11eb-97f3-c434c85b9a9d.jpeg)
 
 
-
 <br/>
 Interested programming languages : 
 
