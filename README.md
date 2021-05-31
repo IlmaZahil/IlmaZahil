@@ -9,7 +9,6 @@ I am a second year undergraduate Software Engineer at University of Westminister
 
 
 <br/>
-
 Interested programming languages : 
 
 <a href="#">
