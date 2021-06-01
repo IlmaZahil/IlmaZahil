@@ -10,7 +10,7 @@
 Interested programming languages : <br/><br/>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square">
