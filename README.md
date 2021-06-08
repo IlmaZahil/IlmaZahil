@@ -43,7 +43,7 @@ Interested programming languages : <br/><br/>
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=javascript&logoColor=white&style=flat-square">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="xd" width="40" height="40"/>
 </a>
 <a href="#">
   <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="xd" width="40" height="40"/>
