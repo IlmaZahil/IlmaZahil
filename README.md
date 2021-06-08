@@ -16,10 +16,10 @@ Interested programming languages : <br/><br/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square">
+  <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="xd" width="40" height="40"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square">
+  <img src="https://cdn.worldvectorlogo.com/logos/.svg" alt="xd" width="40" height="40"/>
 </a>
 <a href="#">
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="xd" width="40" height="40"/>
