@@ -13,7 +13,7 @@ Interested programming languages : <br/><br/>
   <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square">
+ <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="xd" width="40" height="40"/>
 </a>
 <a href="#">
   <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="xd" width="40" height="40"/>
