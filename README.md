@@ -44,6 +44,7 @@ Interested programming languages : <br/><br/>
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square">
+  <img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="xd" width="40" height="40"/>
 </a>
 
 
