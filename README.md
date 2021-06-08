@@ -28,7 +28,7 @@ Interested programming languages : <br/><br/>
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="xd" width="40" height="40"/>
 </a>
 <a href="#">
   <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="xd" width="40" height="40"/>
