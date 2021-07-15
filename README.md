@@ -3,7 +3,6 @@
 
 <br/>I am a second year undergraduate Software Engineer at University of Westminister who is a good team player with harworking skills.
 <br/>
-<br/>
 
 <br/><br/>
 Interested programming languages : <br/><br/>
