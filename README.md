@@ -29,11 +29,7 @@
 </a>
 <a href="#">
   <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="xd" width="40" height="40"/>
-</a>
- 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
- 
-<a href="#">
+</a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="#">
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="xd" width="40" height="40"/>
 </a>
 <a href="#">
@@ -59,7 +55,7 @@
 </a>
 <a href="#">
   <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="xd" width="40" height="40"/>
-</a>
+</a><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 <br/><br/>
 
