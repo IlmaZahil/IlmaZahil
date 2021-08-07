@@ -18,11 +18,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IlmaZahil&theme=dark" alt="ilmazahil" /></p>
 
 
-<br/>I am a second year undergraduate Software Engineer at University of Westminister who is a good team player with harworking skills.
-<br/>
-
 <br/><br/>
-Interested programming languages : <br/><br/>
+**Interested programming languages :** <br/><br/>
 
 <a href="#">
  <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="xd" width="40" height="40"/>
@@ -66,7 +63,7 @@ Interested programming languages : <br/><br/>
 
 <br/><br/>
 
-Reach me out :
+**Reach me out :**
 
 <a href="https://www.instagram.com/iam_ilm/">
  <img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="xd" width="40" height="40"/>
