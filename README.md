@@ -11,11 +11,11 @@
 - 📫 How to reach me **ilmazahil7@gmail.com**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujadilrukshiherath&show_icons=true&theme=dark&locale=en&layout=compact" alt="anujadilrukshiherath" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IlmaZahil&show_icons=true&theme=dark&locale=en&layout=compact" alt="ilmazahil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujadilrukshiherath&show_icons=true&theme=dark&locale=en" alt="anujadilrukshiherath" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IlmaZahil&show_icons=true&theme=dark&locale=en" alt="ilmazahil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujadilrukshiherath&theme=dark" alt="anujadilrukshiherath" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IlmaZahil&theme=dark" alt="ilmazahil" /></p>
 
 
 <br/>I am a second year undergraduate Software Engineer at University of Westminister who is a good team player with harworking skills.
