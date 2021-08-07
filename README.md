@@ -15,7 +15,7 @@
  <a href="https://github.com/mahfoos/github-readme-stats"><img alt="Ilma Zahil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlmaZahil&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IlmaZahil&theme=dark" alt="ilmazahil" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IlmaZahil&theme=react&hide_border=true&bg_color=0D1117" alt="ilmazahil" /></p>
 
 
 <br/><br/>
@@ -51,8 +51,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="xd" width="40" height="40"/>
 </a>
 <a href="#">
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="xd" width="40" height="40"/>
-</a>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="xd" width="40" height="40"/>
 <a href="#">
   <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="xd" width="40" height="40"/>
 </a><a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
