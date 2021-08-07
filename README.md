@@ -12,8 +12,6 @@
 
 <a href="https://github.com/mahfoos/github-readme-stats"><img alt="Ilma Zahil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IlmaZahil&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IlmaZahil&show_icons=true&theme=dark&locale=en" alt="ilmazahil" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IlmaZahil&theme=dark" alt="ilmazahil" /></p>
 
 
