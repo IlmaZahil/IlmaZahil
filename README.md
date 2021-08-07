@@ -47,6 +47,9 @@
 <a href="#">
   <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="xd" width="40" height="40"/>
 </a>
+ <a href="#">
+  <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="xd" width="40" height="40"/>
+</a>
 <a href="#">
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="xd" width="40" height="40"/>
 </a>
