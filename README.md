@@ -1,10 +1,10 @@
-###  👋 Hello World, I'm Ilma Zahil!
+<h2 align="center">👋 Hello World, I'm Ilma Zahil!<h2>
 
 <h3 align="center">Mobile and Web Developer | Undergraduate Software Engineer | UI/UX Enthusiast</h3>
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on ** Web and Mobile Projects**
+- 👯 I’m looking to collaborate on **Web and Mobile Projects**
 
 - 💬 Ask me about **HTML, CSS, JS, MySQL, Flutter, Python, React Native**
 
