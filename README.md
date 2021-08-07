@@ -10,8 +10,7 @@
 
 - 📫 How to reach me **ilmazahil7@gmail.com**
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IlmaZahil&show_icons=true&theme=dark&locale=en&layout=compact" alt="ilmazahil" /></p>
+<a href="https://github.com/mahfoos/github-readme-stats"><img alt="Ilma Zahil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IlmaZahil&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IlmaZahil&show_icons=true&theme=dark&locale=en" alt="ilmazahil" /></p>
 
