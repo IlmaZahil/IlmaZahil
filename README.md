@@ -30,9 +30,9 @@
 <a href="#">
   <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="xd" width="40" height="40"/>
 </a>
-<a href="#">
-  <img src="https://cdn.worldvectorlogo.com/logos/.svg" alt="xd" width="40" height="40"/>
-</a>
+ 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+ 
 <a href="#">
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="xd" width="40" height="40"/>
 </a>
