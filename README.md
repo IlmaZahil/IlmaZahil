@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Web and Mobile Projects**
+- 👯 I’m looking forward to collaborate on **Web and Mobile Projects**
 
 - 💬 Ask me about **HTML, CSS, JS, MySQL, Flutter, Python, React Native**
 
