@@ -1,6 +1,6 @@
 ###  👋 Hello World, I'm Ilma Zahil!
 
-<h3 align="center">Mobile and Web Developer| Undergraduate Software Engineer | UI/UX Enthusiast</h3>
+<h3 align="center">Mobile and Web Developer | Undergraduate Software Engineer | UI/UX Enthusiast</h3>
 
 - 🌱 I’m currently learning **React**
 
@@ -11,6 +11,9 @@
 - 📫 How to reach me **ilmazahil7@gmail.com**
 
 <a href="https://github.com/mahfoos/github-readme-stats"><img alt="Ilma Zahil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IlmaZahil&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+ <a href="https://github.com/mahfoos/github-readme-stats"><img alt="Ilma Zahil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlmaZahil&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IlmaZahil&theme=dark" alt="ilmazahil" /></p>
 
