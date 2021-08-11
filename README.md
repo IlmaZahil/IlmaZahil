@@ -1,4 +1,7 @@
 <h2 align="center">👋 Hello World, I'm Ilma Zahil!<h2>
+ 
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IlmaZahil" alt="ilmazahil" /></a> </p>
+
 
 <h3 align="center">Mobile and Web Developer | Undergraduate Software Engineer | UI/UX Enthusiast</h3>
 
