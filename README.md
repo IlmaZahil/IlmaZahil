@@ -5,7 +5,7 @@
 
 <h3 align="center">Mobile and Web Developer | Undergraduate Software Engineer | UI/UX Enthusiast</h3>
 
-- 🌱 I’m currently learning **React,iOS,Swift**
+- 🌱 I’m currently learning **React,iOS**
 
 - 👯 I’m looking forward to collaborate on **Web and Mobile Projects**
 
