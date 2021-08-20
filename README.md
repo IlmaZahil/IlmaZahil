@@ -14,6 +14,8 @@
 - 📫 How to reach me **ilmazahil7@gmail.com**
  
 - 📝 I write articles on **https://medium.com/@ilmazahil7**
+ 
+ <hr>
 
 <a href="https://github.com/mahfoos/github-readme-stats"><img alt="Ilma Zahil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IlmaZahil&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/mahfoos/github-readme-stats"><img alt="Ilma Zahil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlmaZahil&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IlmaZahil&theme=react&hide_border=true&bg_color=0D1117" alt="ilmazahil" />
